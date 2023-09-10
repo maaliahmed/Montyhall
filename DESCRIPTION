@@ -1,0 +1,13 @@
+Package: finalmonty
+Type: Package
+Title: Play a Monty Hall Problem Game
+Version: 0.1.0
+Author: Maali Ahmed
+Maintainer: The package maintainer <maali.ahmed@asu.edu>
+Description: The package allows you to run one game or a loop of the Monty Hall
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+   dplyr
+RoxygenNote: 7.2.3
